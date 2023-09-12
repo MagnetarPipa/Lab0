@@ -11,7 +11,6 @@ namespace Lab0
         static void Main(string[] args)
         {
             int x = 5, y = 3;
-            Math.Pow(x,y);
             Console.WriteLine("Возведение в степень целого чилса: "+Math.Pow(x, y));
             Console.ReadLine();
         }
